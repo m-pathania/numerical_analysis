@@ -10,4 +10,6 @@ Assignments of Course ME542: Numerical Analysis
 
 **Assignment 04:** Solving set of linear equations using Indirect Methods, Gauss seidel and Conjugate Gradient.
 
-**Assignment 05:** Solving Boundary Value Problem using Finite Difference Method
+**Assignment 05:** Solving Boundary Value Problem using Finite Difference Method.
+
+**Assignment 06:** Solving Ordinary Differential Equation using Euler Method.
