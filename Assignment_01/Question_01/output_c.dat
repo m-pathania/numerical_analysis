@@ -1,0 +1,8 @@
+Parameters
+start_point = 	-2
+end_point = 	2
+increment = 	4
+error = 	1e-09
+
+The solution of problem:	1.11416
+Total Number of Function evaluations:	28
