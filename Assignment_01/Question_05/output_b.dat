@@ -1,0 +1,12 @@
+Parameters
+start_point = 	-2
+end_point = 	2
+increment = 	0.5
+error = 	1e-09
+
+root		Function Evaluations
+-1.61803		31
+0.618034		67
+1		105
+
+Total Number of Function evaluations:	107
