@@ -8,4 +8,6 @@ Assignments of Course ME542: Numerical Analysis
 
 **Assignment 03:** Solving set of linear equation using Gauss Elimination with scaled Partial pivoting.
 
-**Assignment 04:** Solving set of linear equations using Indirect Methods, Gauss seidel and Conjugate Direction.
+**Assignment 04:** Solving set of linear equations using Indirect Methods, Gauss seidel and Conjugate Gradient.
+
+**Assignment 05:** Solving Boundary Value Problem using Finite Difference Method
